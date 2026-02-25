@@ -14,15 +14,15 @@ export default function Hero() {
           <div className="space-y-6">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
               <span className="bg-gradient-to-r from-purple-600 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-                Solusi Cepat & Profesional
+                IKARIZ.ID 
               </span>
               <br />
               <span className="text-gray-800">
-                untuk Tugas dan Skripsi Anda
+                 Solusi Skripsi Dan Tugasmu
               </span>
             </h1>
             <p className="text-lg text-gray-600 leading-relaxed">
-              Bimbingan, revisi, dan pengerjaan terpercaya dengan hasil berkualitas.
+              Bimbingan, revisi, dan pengerjaan Cepat Dan Tepat Siap ACC.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button

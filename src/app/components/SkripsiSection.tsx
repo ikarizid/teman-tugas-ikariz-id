@@ -77,7 +77,7 @@ export default function SkripsiSection() {
     },
     {
       question: 'Apakah ada garansi revisi?',
-      answer: 'Ya, kami menyediakan revisi sesuai paket yang dipilih. Paket Standard dan Premium mendapat revisi unlimited.',
+      answer: 'Ya, kami menyediakan revisi Unlimitid Sampai ACC',
     },
     {
       question: 'Bagaimana dengan kerahasiaan data?',
@@ -119,7 +119,7 @@ export default function SkripsiSection() {
         <div className="relative rounded-3xl overflow-hidden mb-12 h-[300px]">
           <img
             src="https://images.unsplash.com/photo-1726406814732-dc5aa0c9df1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwd3JpdGluZyUyMHRoZXNpcyUyMGxpYnJhcnl8ZW58MXx8fHwxNzcxNTU0MjIyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-            alt="Jasa Skripsi"
+            alt="Teman Skripsi"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-purple-900/90 to-pink-900/90 flex items-center justify-center">
@@ -173,32 +173,32 @@ export default function SkripsiSection() {
                   />
                 </div>
                 <div className="p-8">
-                  <h3 className="text-3xl font-bold text-gray-800 mb-6">Layanan Jasa Skripsi Profesional</h3>
+                  <h3 className="text-3xl font-bold text-gray-800 mb-6">Layanan Jasa Skripsi </h3>
                   <div className="prose prose-lg text-gray-600 space-y-4">
                     <p>
-                      Kami menyediakan layanan jasa penulisan skripsi yang komprehensif dan profesional untuk membantu mahasiswa menyelesaikan tugas akhir mereka dengan hasil terbaik.
+                      Saya menyediakan layanan pendampingan dan penulisan skripsi secara sistematis untuk membantu mahasiswa menyelesaikan tugas akhir dengan lebih terarah.
                     </p>
                     <p>
-                      Tim kami terdiri dari para akademisi berpengalaman yang ahli di berbagai bidang ilmu. Setiap skripsi dikerjakan dengan teliti, mengikuti metodologi penelitian yang benar, dan disesuaikan dengan panduan dari kampus masing-masing.
+                      Setiap pengerjaan dilakukan dengan teliti, mengikuti metodologi penelitian yang tepat, serta disesuaikan dengan pedoman kampus masing-masing.
                     </p>
                     
                     <h4 className="text-xl font-semibold text-gray-800 mt-6 mb-4">Fasilitas yang Anda Dapatkan:</h4>
                     <ul className="space-y-2">
                       <li className="flex items-start gap-3">
                         <span className="text-purple-600 font-bold">•</span>
-                        <span>Konsultasi intensif dengan expert di bidang Anda</span>
+                        <span>Konsultasi dan diskusi terarah</span>
                       </li>
                       <li className="flex items-start gap-3">
                         <span className="text-purple-600 font-bold">•</span>
-                        <span>Pengerjaan sesuai metodologi penelitian yang tepat</span>
+                        <span>Pendampingan metodologi penelitian</span>
                       </li>
                       <li className="flex items-start gap-3">
                         <span className="text-purple-600 font-bold">•</span>
-                        <span>Analisis data menggunakan software statistik (SPSS, R, Stata, dll)</span>
+                        <span>Analisis data (SPSS, R, Stata, dll)</span>
                       </li>
                       <li className="flex items-start gap-3">
                         <span className="text-purple-600 font-bold">•</span>
-                        <span>Pengecekan plagiarisme menggunakan Turnitin/Plagscan</span>
+                        <span>Pengecekan plagiarisme</span>
                       </li>
                       <li className="flex items-start gap-3">
                         <span className="text-purple-600 font-bold">•</span>

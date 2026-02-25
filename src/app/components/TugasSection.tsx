@@ -43,13 +43,25 @@ export default function TugasSection() {
       price: 'Deadline 1–2 Hari',
       features: [
          "Prioritas pengerjaan",
-          "Revisi 2x",
+          "Revisi 3x",
           "Format sesuai kampus",
           "Cek plagiasi basic",
           "File siap kumpul",
       ],
       note:'🟣 Ideal untuk deadline mendekat.',
       noteHighlight:'Harga Mulai 50K'
+    },
+    {
+      title: 'Paket Hemat',
+      price: 'Deadline 3- 7 Hari',
+      features: [
+         "Pengerjaan Santai Tapi Pasti",
+          "Revisi 2x",
+          "Format sesuai kampus",
+          "File siap kumpul",
+      ],
+      note:'🟣 Ideal untuk deadline Yang  Masih Jauh.',
+      noteHighlight:'Harga Seiklasnya Khusus Tugas Tugas Ringan (makalah,ppt,Paper Resume, dll)'
     },
   ];
 
@@ -80,7 +92,7 @@ export default function TugasSection() {
     },
     {
       number: '02',
-      title: 'Deal & DP',
+      title: 'Deal & DP (DP khusu Paket Expert)',
       description: 'Konfirmasi harga dan bayar DP 50%',
     },
     {

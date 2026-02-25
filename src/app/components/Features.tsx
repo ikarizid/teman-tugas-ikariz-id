@@ -4,8 +4,8 @@ export default function Features() {
   const features = [
     {
       icon: <Award className="w-8 h-8" />,
-      title: 'Profesional & Berpengalaman',
-      description: 'Tim ahli dengan pengalaman bertahun-tahun dalam bidang akademik',
+      title: 'Berpengalaman di Bidang Akademik',
+      description: 'Berpengalaman menangani berbagai kebutuhan penulisan dan tugas akademik.',
     },
     {
       icon: <Clock className="w-8 h-8" />,
@@ -14,13 +14,13 @@ export default function Features() {
     },
     {
       icon: <ShieldCheck className="w-8 h-8" />,
-      title: 'Anti Plagiarisme',
-      description: '100% original dengan pemeriksaan Turnitin dan Plagscan',
+      title: 'Bergaransi',
+      description: 'DP dikembalikan jika pembatalan terjadi dari pihak kami sebelum pekerjaan selesai. Ketentuan lengkap berlaku sesuai kesepakatan awal.',
     },
     {
       icon: <MessageCircle className="w-8 h-8" />,
       title: 'Konsultasi Gratis',
-      description: 'Diskusi dan konsultasi tanpa batas untuk hasil maksimal',
+      description: 'Diskusi dan konsultasi tanpa batas untuk hasil maksimal dan Unlimited Revisi Sampai ACC',
     },
   ];
 
@@ -32,7 +32,7 @@ export default function Features() {
             Mengapa Memilih <span className="bg-gradient-to-r from-purple-600 to-pink-500 bg-clip-text text-transparent">Kami?</span>
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Kami berkomitmen memberikan layanan terbaik dengan standar kualitas tinggi
+            Kami berkomitmen memberikan layanan terbaik,Fast Respon, Unlimited revisi Dan Tetap Menjaga Privasi Customer
           </p>
         </div>
 
